@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Thales Sousa</h1> 
-<h3 align="center">A Web Developer | Full-Stack | In progress ⌚</h3>
+<h3 align="center">A Web Developer | Front-end | In progress ⌚</h3>
 
 - 🌎 I'm from Picos - Piauí, Brasil 🇧🇷 
 - 🌱 I’m currently learning ReactJS, Node, React Native, Typescript.
