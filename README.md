@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer | Front-end | In progress ⌚</h3>
 
 - 🌎 I'm from Picos - Piauí, Brasil 🇧🇷 
-- 🌱 I’m currently learning ReactJS, Node, React Native, Typescript.
+- 🌱 I’m currently learning ReactJS and Typescript.
 - 🎓 Study at the Federal University of Piauí.
 - 📫 How to reach me: thalestjsb@gmail.com
 
