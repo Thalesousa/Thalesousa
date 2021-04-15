@@ -68,3 +68,5 @@
   <a href="https://app.rocketseat.com.br/me/thalesousa" target="blank"><img src="./assets/rocketseat.png" title="rocketseat" width="30px">&ensp;</a>
   <a href="https://codepen.io/thalesousa" target="blank"><img src="https://img.icons8.com/ios/30/000000/codepen.png" title="codepen"/></a>
 </div>
+
+<img align="center" src="https://i.pinimg.com/originals/0d/6d/50/0d6d506032c5cffc91c1891185ac9446.gif">
