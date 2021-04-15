@@ -17,7 +17,7 @@
 <!-- ********************************* Tenho experiência ******************************************** -->
   <div>
     <h3>Tenho experiência</h3>
-    <img src="./assets/html5.svg" width="30px" title="html5">&ensp;&ensp;
+    <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="30px" title="html5">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
@@ -34,9 +34,9 @@
     <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" title="vscode"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/git.png" title="git"/>&ensp;&ensp;
     <img src="https://img.icons8.com/material-sharp/30/000000/github.png" title="github"/>&ensp;&ensp;
-    <img src="./assets/Insomnia.svg" width="30px" title="insomnia">&ensp;&ensp;
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width="30px" title="insomnia">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/notion.png" title="notion"/>&ensp;&ensp;
-    <img src="./assets/figma.svg" width="16px" title="figma">&ensp;&ensp;
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
   </div>
 
 <!-- ********************************* Estou Estudando ******************************************** -->
@@ -62,16 +62,9 @@
 </div>
 
 <div align="center">
-  <h2>📫 Contato</h2>
-  <a href="https://www.linkedin.com/in/thalesousa/" target="blank"><img src="./assets/linkedin.svg" width="25px">&ensp;&ensp;</a>
-  <a href="mailto:thalestjsb@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="thalestjsb@gmail.com" width="30px"></a>
-  
-
+  <h2>📫 Contato e outras redes</h2>
+  <a href="https://www.linkedin.com/in/thalesousa/" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px">&ensp;&ensp;</a>
+  <a href="mailto:thalestjsb@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="thalestjsb@gmail.com" width="30px">&ensp;&ensp;</a>
+  <a href="https://app.rocketseat.com.br/me/thalesousa" target="blank"><img src="./assets/rocketseat.png" title="rocketseat" width="30px">&ensp;</a>
+  <a href="https://codepen.io/thalesousa" target="blank"><img src="https://img.icons8.com/ios/30/000000/codepen.png" title="codepen"/></a>
 </div>
-
-
-
-<!-- - 🌎 I'm from Picos - Piauí, Brasil 🇧🇷 
-- 🌱 I’m currently learning ReactJS and Typescript.
-- 🎓 Study at the Federal University of Piauí.
-- 📫 How to reach me: thalestjsb@gmail.com -->
