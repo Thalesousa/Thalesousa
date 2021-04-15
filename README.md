@@ -51,7 +51,17 @@
 </div>
 
 
-<div>
+<div align="center">
+
+  <h2 align="center">📊 Estatísticas</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Thalesousa&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="Thalesousa" width="420" align="center"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesousa&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="Thalesousa" height="165" align="center"/>
+
+
+</div>
+
+<div align="center">
   <h2>📫 Contato</h2>
   <a href="https://www.linkedin.com/in/thalesousa/" target="blank"><img src="./assets/linkedin.svg" width="25px">&ensp;&ensp;</a>
   <a href="mailto:thalestjsb@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" title="thalestjsb@gmail.com" width="30px"></a>
