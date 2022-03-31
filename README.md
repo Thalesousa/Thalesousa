@@ -7,7 +7,7 @@
 </div>
 
 
-<p>Olá me chamo Thales, sou desenvolvedor front-end e atualmente estou graduando em Sistemas de Informação pela UFPI de Picos/PI, também faço o ignite da rocketseat na trilha front-end com reactjs e estou disponível para trabalho. 😉</p>
+<p>Olá me chamo Thales, sou desenvolvedor front-end e atualmente trabalho na edupulses como desenvolvedor frontend com vue.js. 😉</p>
 
 
 <img src="./assets/illustration.svg" width="500px" align="right">
@@ -22,9 +22,6 @@
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/django.png" title="django"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/postgreesql.png" title="postgresql">&ensp;&ensp;
   </div>
 
 <!-- ********************************* Minhas Ferramentas ******************************************** -->
