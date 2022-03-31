@@ -17,11 +17,12 @@
 <!-- ********************************* Tenho experiência ******************************************** -->
   <div>
     <h3>Tenho experiência</h3>
-    <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="30px" title="html5">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30px" title="html5">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="vue-js"/>&ensp;&ensp;
   </div>
 
 <!-- ********************************* Minhas Ferramentas ******************************************** -->
