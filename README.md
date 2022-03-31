@@ -22,7 +22,10 @@
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="vue-js"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/vue-js.png" title="vue-js"/>&ensp;&ensp;
+    
   </div>
 
 <!-- ********************************* Minhas Ferramentas ******************************************** -->
@@ -40,10 +43,9 @@
 <!-- ********************************* Estou Estudando ******************************************** -->
   <div>
     <h3>Estou estudando</h3>
-    <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/firebase.png" title="firebase"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="30px" title="nextjs"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" title="nuxt"/>
   </div>
 
 </div>
