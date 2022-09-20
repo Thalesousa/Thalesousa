@@ -40,14 +40,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
   </div>
 
-<!-- ********************************* Estou Estudando ******************************************** -->
-  <div>
-    <h3>Estou estudando</h3>
-    <img src="https://img.icons8.com/color/30/000000/firebase.png" title="firebase"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" title="nuxt"/>
-  </div>
-
 </div>
 
 
