@@ -7,7 +7,7 @@
 </div>
 
 
-<p>Olá me chamo Thales, sou desenvolvedor front-end e atualmente trabalho na edupulses como desenvolvedor frontend com vue.js. 😉</p>
+<p>Olá me chamo Thales, sou desenvolvedor front-end e atualmente trabalho na VH consultoria e sistemas com reactjs e angular. 😉</p>
 
 
 <img src="./assets/illustration.svg" width="500px" align="right">
