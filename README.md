@@ -17,6 +17,7 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap" title="bootstrap"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" alt="react" title="react"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-styled components-05122A?style=flat&logo=styled-components" alt="styled components" title="styled components"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-css modules-05122A?style=flat&logo=css-modules" alt="css modules" title="css modules"/></a>
 
 
 ### Já trabalhei também
