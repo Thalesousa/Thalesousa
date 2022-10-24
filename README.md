@@ -18,7 +18,6 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" alt="react" title="react"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-styled components-05122A?style=flat&logo=styled-components" alt="styled components" title="styled components"/></a>
 
-<br>
 
 ## Já trabalhei também
 
@@ -27,7 +26,6 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js" alt="vue.js" title="vue.js"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase" alt="firebase" title="firebase"/></a>
 
-<br>
 
 ## Ferramentas
 
@@ -36,7 +34,6 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visual-studio-code&logoColor=1572B7" alt="vscode" title="vscode"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia&logoColor=4000BF" alt="insomnia" title="insomnia"/></a>
 
-<br>
 
 ## Contato
 
@@ -53,7 +50,6 @@
   <img align="center" src="https://img.shields.io/badge/-thalesousa-05122A?style=flat&logo=codepen" alt="codepen" title="codepen"/>
 </a>
 
-<br><br>
 ## Estatísticas
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thalesousa&count_private=true&show_icons=true&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/></a>
