@@ -37,7 +37,7 @@
 
 ### Contato
 
-<a href="https://instagram.com/thalesousa" target="_blank">
+<a href="https://thalesousa.vercel.app" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-thalesousa.vercel.app-05122A?style=flat&logo=vercel" alt="Google chrome" title="site"/>
 </a>
 <a href="mailto:thalestjsb@gmail.com" target="_blank">
