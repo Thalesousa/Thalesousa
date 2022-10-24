@@ -10,31 +10,31 @@
 
 ## Experiência
 
-<img align="center" src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5" alt="html" title="html"/>
-<img align="center" src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3&logoColor=1572B7" alt="css3" title="css3"/>
-<img align="center" src="https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript" alt="javascript" title="javascript"/>
-<img align="center" src="https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript" alt="typescript" title="typescript"/>
-<img align="center" src="https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap" title="bootstrap"/>
-<img align="center" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" alt="react" title="react"/>
-<img align="center" src="https://img.shields.io/badge/-styled components-05122A?style=flat&logo=styled-components" alt="styled components" title="styled components"/>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5" alt="html" title="html"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3&logoColor=1572B7" alt="css3" title="css3"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript" alt="javascript" title="javascript"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript" alt="typescript" title="typescript"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap" title="bootstrap"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" alt="react" title="react"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-styled components-05122A?style=flat&logo=styled-components" alt="styled components" title="styled components"/></a>
 
 <br>
 
 ## Já trabalhei também
 
-<img align="center" src="https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js" alt="next.js" title="next.js"/>
-<img align="center" src="https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="angular" title="angular"/>
-<img align="center" src="https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js" alt="vue.js" title="vue.js"/>
-<img align="center" src="https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase" alt="firebase" title="firebase"/>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js" alt="next.js" title="next.js"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="angular" title="angular"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js" alt="vue.js" title="vue.js"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase" alt="firebase" title="firebase"/></a>
 
 <br>
 
 ## Ferramentas
 
-<img align="center" src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=CC3657" alt="figma" title="figma"/>
-<img align="center" src="https://img.shields.io/badge/-git-05122A?style=flat&logo=git" alt="git" title="git"/>
-<img align="center" src="https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visual-studio-code&logoColor=1572B7" alt="vscode" title="vscode"/>
-<img align="center" src="https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia&logoColor=4000BF" alt="insomnia" title="insomnia"/>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=CC3657" alt="figma" title="figma"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-git-05122A?style=flat&logo=git" alt="git" title="git"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visual-studio-code&logoColor=1572B7" alt="vscode" title="vscode"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia&logoColor=4000BF" alt="insomnia" title="insomnia"/></a>
 
 <br>
 
@@ -56,5 +56,5 @@
 <br><br>
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thalesousa&count_private=true&show_icons=true&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesousa&&langs_count=8&layout=compact&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thalesousa&count_private=true&show_icons=true&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesousa&&langs_count=8&layout=compact&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/></a>
