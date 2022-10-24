@@ -49,8 +49,3 @@
 <a href="https://codepen.io/thalesousa" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-thalesousa-05122A?style=flat&logo=codepen" alt="codepen" title="codepen"/>
 </a>
-
-## Estatísticas
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thalesousa&count_private=true&show_icons=true&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesousa&&langs_count=8&layout=compact&text_color=ffffff&title_color=1CB5E0&bg_color=000046&icon_color=1CB5E0" alt="Thalesousa" height="140" align="center"/></a>
