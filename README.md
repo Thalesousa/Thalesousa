@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer focado em desenvolvimento front-end.
 - 🎓 Formado em sistemas de informação (UFPI).
-- 🔭 Atualmente trabalhando na [Vh Consultoria e Sistemas](https://vh.com.br/).
+- 🔭 Atualmente trabalhando na <a href="https://vh.com.br/" target="_blank">Vh Consultoria e Sistemas</a>.
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, React.js.**
 - 👨‍💻 Veja mais em [thalesousa.vercel.app](https://thalesousa.vercel.app).
 
