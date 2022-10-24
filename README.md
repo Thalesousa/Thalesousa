@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, React.js.**
 - 👨‍💻 Veja mais em [thalesousa.vercel.app](https://thalesousa.vercel.app).
 
-## Experiência
+### Experiência
 
 <a href="#"><img align="center" src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5" alt="html" title="html"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3&logoColor=1572B7" alt="css3" title="css3"/></a>
@@ -19,7 +19,7 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-styled components-05122A?style=flat&logo=styled-components" alt="styled components" title="styled components"/></a>
 
 
-## Já trabalhei também
+### Já trabalhei também
 
 <a href="#"><img align="center" src="https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js" alt="next.js" title="next.js"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="angular" title="angular"/></a>
@@ -27,7 +27,7 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase" alt="firebase" title="firebase"/></a>
 
 
-## Ferramentas
+### Ferramentas
 
 <a href="#"><img align="center" src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=CC3657" alt="figma" title="figma"/></a>
 <a href="#"><img align="center" src="https://img.shields.io/badge/-git-05122A?style=flat&logo=git" alt="git" title="git"/></a>
@@ -35,7 +35,7 @@
 <a href="#"><img align="center" src="https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia&logoColor=4000BF" alt="insomnia" title="insomnia"/></a>
 
 
-## Contato
+### Contato
 
 <a href="https://instagram.com/thalesousa" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-thalesousa.vercel.app-05122A?style=flat&logo=vercel" alt="Google chrome" title="site"/>
