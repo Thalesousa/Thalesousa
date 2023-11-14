@@ -51,6 +51,3 @@
   <img align="center" src="https://img.shields.io/badge/-thalesousa-05122A?style=flat&logo=codepen" alt="codepen" title="codepen"/>
 </a>
 
-<a href="https://app.rocketseat.com.br/me/thalesousaa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thalesousa-05122A?style=flat&logo=apache-rocketMQ&logoColor=5C4C9F" alt="rocketseat" title="rocketseat"/>
-</a>
