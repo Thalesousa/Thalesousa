@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thales Sousa</h1>
 
 
-- 🔥 Junior Web Developer focado em desenvolvimento front-end.
+- 🔥 Web Developer focado em desenvolvimento front-end.
 - 🎓 Formado em sistemas de informação (UFPI).
 - 🔭 Atualmente trabalhando na <a href="https://vh.com.br/" target="_blank">Vh Consultoria e Sistemas</a>.
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, React.js.**
