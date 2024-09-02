@@ -4,7 +4,7 @@
 
 - 🔥 Web Developer focado em desenvolvimento front-end.
 - 🎓 Formado em sistemas de informação (UFPI).
-- 🔭 Atualmente trabalhando na <a href="https://vh.com.br/" target="_blank">Vh Consultoria e Sistemas</a>.
+- 🔭 Atualmente trabalhando na <a href="https://edupulses.io/" target="_blank">Edupulses</a>.
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, React.js.**
 - 👨‍💻 Veja mais em [thalesousa.vercel.app](https://thalesousa.vercel.app).
 
